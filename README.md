@@ -3,7 +3,7 @@
 <img alt="Demo" src="/Home.jpg" />
 <br/>
 
-* Microsoft Learn Student Ambassador Program ကို လျောက်ချင်တဲ့ ညီငယ် ညီမငယ် များအတွက် အထောက်အကူဖြစ်စေရန် ရည်ရွယ်ရေးသားထားပါသည် ။
+* Microsoft Learn Student Ambassador Program ကို လျောက်ချင်တဲ့သူများအတွက် အထောက်အကူဖြစ်စေရန် ရည်ရွယ်ရေးသားထားပါသည် ။
 
 * အခက်အခဲ တစ်စုံ တစ်ရာရှိခဲ့ သော် ကျွန်တော့ ရဲ့ Facebook နဲ့ Linkedin ကနေတစ်ဆင့် မေးမြန်းနိုင်ပါသည် ။
  
